@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoviesApp1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_custom_array_adapter">CustomArrayAdapter</string>
+    <string name="title_activity_grid__item__movies">Grid_Item_Movies</string>
+</resources>
